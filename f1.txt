@@ -1,0 +1,17 @@
+Question 1:  Create a Table name as RECORDS, Where columns are- Id, Name, Address, Phone. Perform following operation on it using SQL queries.
+
+INSERT
+UPDATE
+SELECT all
+SELECT Id and Name
+SELECT with WHERE clause
+DELETE
+ALTER table
+Question 2: Find as many defects as you can for below website link, list down what did you test, what did you find and bring your findings in class: http://newtours.demoaut.com/
+
+Question 3:
+
+  
+
+DRIVE LINK
+Paste link here
